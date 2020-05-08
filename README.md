@@ -6,3 +6,5 @@
 4. Установить зависимости " pip install -r requirements.txt "
 5. Запуск игры " python game.py "
 6. Запуск тестов " pytest test_pytest.py " 
+
+-
