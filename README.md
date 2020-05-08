@@ -6,3 +6,7 @@
 4. Установить зависимости " pip install -r requirements.txt "
 5. Запуск игры " python game.py "
 6. Запуск тестов " pytest test_pytest.py " 
+
+интеграция с travis-ci  
+[build-badge]: https://img.shields.io/travis/atarpator/hwe1/master.png?style=flat-square  
+[build]: https://travis-ci.org/atarpator/hwe1
